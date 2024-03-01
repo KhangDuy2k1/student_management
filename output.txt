@@ -1,0 +1,3 @@
+Students{id: '1', name: 'fafda', dateOfBird: '2020-02-02', address: 'fasfasaf', height: '55.0', weight: '10.0', msv='1234567890', schoolName='fasfsa', startYear=2020, GPA=5.0, learningAbility=TRUNG_BINH}
+Students{id: '2', name: 'fsafasfa', dateOfBird: '2020-02-02', address: 'fafa', height: '55.0', weight: '55.0', msv='1234567890', schoolName='fafaa', startYear=2020, GPA=9.0, learningAbility=XUAT_SAC}
+Students{id: '3', name: 'fasfaf', dateOfBird: '2020-02-02', address: 'fasffaf', height: '65.0', weight: '55.0', msv='1234567890', schoolName='fasfaads', startYear=2020, GPA=9.0, learningAbility=XUAT_SAC}
